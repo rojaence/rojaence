@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1 align="center">Hi, I'm Ronny Endara</h1>
-  <img id="profile" align="center" src="assets/GithubProfile.jpg"/>
+  <img id="profile" align="center" width="250px" src="assets/GithubProfileCircle.png"/>
 </div>
 
 <h2 align="center">I'm a Frontend Developer</h2>
@@ -57,15 +57,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
-
-
-
-
-
-<style>
-  #profile {
-    border-radius: 50%;
-    width: 250px;
-  }
-</style>

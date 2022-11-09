@@ -1,13 +1,10 @@
 <div id="header" align="center">
-  <h1 align="center">Hi, I'm Ronny Endara</h1>
-  <img id="profile" align="center" width="250px" src="assets/GithubProfileCircle.png"/>
+  <img src="assets/githubHeader.png"/>
 </div>
 
-<h2 align="center">I'm a Frontend Developer</h2>  
-
+<br />
 <div id="social" align="center">
 
-<h3 align="center">Networks</h3>
 <a href="https://www.linkedin.com/in/ronny-endara">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>&nbsp;
@@ -45,8 +42,6 @@
 ---
 <div align="center">
 <h3>Github stats</h3>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rojaence&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>

@@ -6,10 +6,9 @@
 <h2 align="center">I'm a Frontend Developer</h2>  
 
 <div id="social" align="center">
-<h3 align="center">Networks</h3>
 
 ---
-
+<h3 align="center">Networks</h3>
 <a href="https://www.linkedin.com/in/ronny-endara">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>&nbsp;
@@ -25,9 +24,9 @@
 
 <br>
 <div id="technologies">
-  <h3 align="center">I have worked with</h3>
 
 ---
+<h3 align="center">I have worked with</h3>
   <div align="center">
   <img width="40" height="40" src="assets/icons/html.svg" title="HTML" alt="HTML"/>&nbsp;
   <img width="40" height="40" src="assets/icons/css3.svg" title="CSS" alt="CSS"/>&nbsp;

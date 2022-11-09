@@ -7,7 +7,6 @@
 
 <div id="social" align="center">
 
----
 <h3 align="center">Networks</h3>
 <a href="https://www.linkedin.com/in/ronny-endara">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>

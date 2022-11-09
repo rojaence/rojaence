@@ -3,8 +3,7 @@
   <img id="profile" align="center" width="250px" src="assets/GithubProfileCircle.png"/>
 </div>
 
-<h2 align="center">I'm a Frontend Developer</h2>
-<br>
+<h2 align="center">I'm a Frontend Developer</h2>  
 
 <div id="social" align="center">
 <h3 align="center">Networks</h3>
@@ -16,10 +15,7 @@
 </a>&nbsp;
 <a href="https://twitter.com/EndaraRonny">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-
-<br>
-
+</a>&nbsp;
 <a href="https://www.codewars.com/users/Ronny%20Endara" id="codewars-link" title="Codewars">
   <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/>
   <img src="https://www.codewars.com/users/Ronny%20Endara/badges/micro"/>
@@ -47,7 +43,6 @@
   <img width="40" height="40" src="assets/icons/opencv.svg" title="OpenCV" alt="OpenCV"/>&nbsp;
   </div>
 </div>
-<br>
 
 ---
 <div align="center">
